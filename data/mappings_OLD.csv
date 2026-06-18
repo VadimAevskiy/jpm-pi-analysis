@@ -1,0 +1,91 @@
+label,fund_type,nav_asset_id,proxy_uuid,broad_uuid
+AUD | Debt - Mezzanine - AUD,Private Credit,0d844646-ed71-48af-9f33-60910e83e7b6,302ba599-45b7-4a76-ba99-103a4eaa9769,5526c00d-42ec-49d5-8146-c8f46ad3d7de
+AUD | Debt - Senior - AUD,Private Credit,1fcc98d9-3ae2-438b-a574-1a064dca3434,88c971d9-5247-43ae-a5a8-f3a2ea6498c0,302ba599-45b7-4a76-ba99-103a4eaa9769
+AUD | Eq - Buyout + Expansion - AUD,Private Equity,74f25897-be13-44d9-be94-ddf3f9e27d51,0b8ca86f-e31f-4409-87cd-ca3bb1a382a3,c605bde6-9a3a-4799-9d66-b340ca3636b4
+AUD | Venture Capital - AUD,Private Equity,9366711f-b495-4df0-9020-7add1a9959b7,43cea6e0-251a-4653-b6a1-f3cf23b0b013,c605bde6-9a3a-4799-9d66-b340ca3636b4
+AUD | Infrastructure - AUD,Private Real Assets,fe1764e5-9ca6-4f85-af9c-984a1340b7e4,1970e925-d087-48a9-9e0e-a59eeda8c7e7,c605bde6-9a3a-4799-9d66-b340ca3636b4
+AUD | Timber - AUD,Private Real Assets,6c613116-8df5-4d6e-9b6b-1340bae1a4d3,653e8db3-a3cb-4017-a536-94273f906711,c605bde6-9a3a-4799-9d66-b340ca3636b4
+AUD | Real Estate - Ex-Value-Added - APAC - AUD,Private Real Estate,0222b9d5-a728-404f-b040-5d7098592cb1,f32d94c2-caeb-4bda-9273-2896f91dcae2,c605bde6-9a3a-4799-9d66-b340ca3636b4
+AUD | Real Estate - Ex-Value-Added - Europe - AUD,Private Real Estate,3b71884c-6013-4513-a948-8a6519e5de8d,8f8123cf-283c-4f81-a219-49921e980cc0,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+AUD | Real Estate - Value-Added - Europe - AUD,Private Real Estate,2960704f-dac8-47d1-99da-9b6b058684b2,8f8123cf-283c-4f81-a219-49921e980cc0,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+AUD | Real Estate - All - UK - AUD,Private Real Estate,,b4ff5131-5828-489a-b89a-fce4e73d1ec1,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+AUD | Real Estate - Ex-Value-Added - UK - AUD,Private Real Estate,47e02f4c-15bc-4fae-a391-976624b8776f,8f8123cf-283c-4f81-a219-49921e980cc0,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+AUD | Real Estate - Value-Added - UK - AUD,Private Real Estate,,b4ff5131-5828-489a-b89a-fce4e73d1ec1,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+AUD | Real Estate - All - USA - AUD,Private Real Estate,,03e53409-2cf0-49ef-9299-72e1cb0b588b,b1591cc0-f9ff-4255-99b8-d34cd4678391
+AUD | Real Estate - Ex-Value-Added - USA - AUD,Private Real Estate,2f83e6c4-971f-49db-8257-63d25207ecf5,03e53409-2cf0-49ef-9299-72e1cb0b588b,b1591cc0-f9ff-4255-99b8-d34cd4678391
+AUD | Real Estate - Value-Added - USA - AUD,Private Real Estate,3fa3139b-12b4-4271-a695-c59fa6c779b3,cc913b05-2d22-444a-967a-f2edd82a39b6,b1591cc0-f9ff-4255-99b8-d34cd4678391
+CHF | Debt - Mezzanine - CHF,Private Credit,f0a46488-6aef-4f8c-949f-c149e22a2165,97594cfe-12dc-45f8-bf0e-4dce58b85572,20408da9-93d4-45db-ae31-10c1567d2140
+CHF | Debt - Senior - CHF,Private Credit,05140500-55cf-41a1-9d5b-45867ef356c5,20408da9-93d4-45db-ae31-10c1567d2140,37af730e-6d33-49ea-8058-18f1770472fb
+CHF | Eq - Buyout + Expansion - CHF,Private Equity,ba5e004b-2ddd-4afd-9302-9f55c362d1c6,c78e3a72-2261-49e1-af72-f16daabbd3a8,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+CHF | Venture Capital - CHF,Private Equity,7be4b0e0-d30c-4bb1-a16c-4a0d95c38faa,116710ab-d173-4358-90db-0a5bf6c5a304,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+CHF | Infrastructure - CHF,Private Real Assets,4499768e-e70a-49c6-9730-06fd183dc6e9,07aa9740-adf4-407e-9473-b4dd1c3fb5f6,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+CHF | Timber - CHF,Private Real Assets,098857f0-7eb3-495f-93eb-ff9dc4e83373,653e8db3-a3cb-4017-a536-94273f906711,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+CHF | Real Estate - Ex-Value-Added - APAC - CHF,Private Real Estate,,f32d94c2-caeb-4bda-9273-2896f91dcae2,c605bde6-9a3a-4799-9d66-b340ca3636b4
+CHF | Real Estate - Ex-Value-Added - Europe - CHF,Private Real Estate,afcce5ad-bba8-4399-b961-57221e355e53,8f8123cf-283c-4f81-a219-49921e980cc0,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+CHF | Real Estate - Value-Added - Europe - CHF,Private Real Estate,,8f8123cf-283c-4f81-a219-49921e980cc0,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+CHF | Real Estate - All - UK - CHF,Private Real Estate,,b4ff5131-5828-489a-b89a-fce4e73d1ec1,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+CHF | Real Estate - Ex-Value-Added - UK - CHF,Private Real Estate,,8f8123cf-283c-4f81-a219-49921e980cc0,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+CHF | Real Estate - Value-Added - UK - CHF,Private Real Estate,,b4ff5131-5828-489a-b89a-fce4e73d1ec1,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+CHF | Real Estate - All - USA - CHF,Private Real Estate,,03e53409-2cf0-49ef-9299-72e1cb0b588b,b1591cc0-f9ff-4255-99b8-d34cd4678391
+CHF | Real Estate - Ex-Value-Added - USA - CHF,Private Real Estate,cb8ec372-b3b2-423c-b33a-ae6aec6fc093,03e53409-2cf0-49ef-9299-72e1cb0b588b,b1591cc0-f9ff-4255-99b8-d34cd4678391
+CHF | Real Estate - Value-Added - USA - CHF,Private Real Estate,0bf886bc-ac0b-47ca-9691-14c2c3c5dda9,cc913b05-2d22-444a-967a-f2edd82a39b6,b1591cc0-f9ff-4255-99b8-d34cd4678391
+EUR | Debt - Mezzanine - EUR,Private Credit,cedd642a-1a12-4863-9e76-daa56d74c017,97594cfe-12dc-45f8-bf0e-4dce58b85572,20408da9-93d4-45db-ae31-10c1567d2140
+EUR | Debt - Senior - EUR,Private Credit,abd73ecb-560f-4812-b9cb-0e6ad5c58b70,20408da9-93d4-45db-ae31-10c1567d2140,37af730e-6d33-49ea-8058-18f1770472fb
+EUR | Eq - Buyout + Expansion - EUR,Private Equity,71dc6f9f-2bbe-4985-a877-9e52741b471a,c78e3a72-2261-49e1-af72-f16daabbd3a8,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+EUR | Venture Capital - EUR,Private Equity,01fe440f-42de-4e2e-9050-2d35c54da6bd,116710ab-d173-4358-90db-0a5bf6c5a304,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+EUR | Infrastructure - EUR,Private Real Assets,3e34ee50-0706-4c7f-9e29-c850249b786f,07aa9740-adf4-407e-9473-b4dd1c3fb5f6,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+EUR | Timber - EUR,Private Real Assets,9499a347-b8a0-4336-aec0-3b763a8b04af,653e8db3-a3cb-4017-a536-94273f906711,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+EUR | Real Estate - Ex-Value-Added - APAC - EUR,Private Real Estate,395d59a4-a132-4164-aea0-32773763c205,f32d94c2-caeb-4bda-9273-2896f91dcae2,c605bde6-9a3a-4799-9d66-b340ca3636b4
+EUR | Real Estate - Ex-Value-Added - Europe - EUR,Private Real Estate,2e3a9f42-da6e-4c8a-8b87-7a07a8d5d093,8f8123cf-283c-4f81-a219-49921e980cc0,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+EUR | Real Estate - Value-Added - Europe - EUR,Private Real Estate,944cd3a6-b532-4842-99c7-58c61fac60d6,8f8123cf-283c-4f81-a219-49921e980cc0,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+EUR | Real Estate - All - UK - EUR,Private Real Estate,,b4ff5131-5828-489a-b89a-fce4e73d1ec1,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+EUR | Real Estate - Ex-Value-Added - UK - EUR,Private Real Estate,,8f8123cf-283c-4f81-a219-49921e980cc0,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+EUR | Real Estate - Value-Added - UK - EUR,Private Real Estate,,b4ff5131-5828-489a-b89a-fce4e73d1ec1,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+EUR | Real Estate - All - USA - EUR,Private Real Estate,,03e53409-2cf0-49ef-9299-72e1cb0b588b,b1591cc0-f9ff-4255-99b8-d34cd4678391
+EUR | Real Estate - Ex-Value-Added - USA - EUR,Private Real Estate,8de3cadb-9640-4c69-afba-d637b878b1e0,03e53409-2cf0-49ef-9299-72e1cb0b588b,b1591cc0-f9ff-4255-99b8-d34cd4678391
+EUR | Real Estate - Value-Added - USA - EUR,Private Real Estate,c80ef54f-54b3-43d8-b28e-05a91b3f9206,cc913b05-2d22-444a-967a-f2edd82a39b6,b1591cc0-f9ff-4255-99b8-d34cd4678391
+GBP | Debt - Mezzanine - GBP,Private Credit,2a56f961-bbd9-462a-a0f5-0bd7e94a0b6b,97594cfe-12dc-45f8-bf0e-4dce58b85572,6738e6df-580d-41ca-a0a7-fa7421a531f3
+GBP | Debt - Senior - GBP,Private Credit,edd4a787-f92f-4a65-ac0b-f9a4d11851e6,20408da9-93d4-45db-ae31-10c1567d2140,950dd3b0-2eeb-49c2-9703-c3695238fdb3
+GBP | Eq - Buyout + Expansion - GBP,Private Equity,996c1fba-04b8-44b8-b401-c81dedb01087,21988d06-8b1c-4c33-93fa-e674df43790e,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+GBP | Venture Capital - GBP,Private Equity,3e21caed-d47a-4831-a1ce-e8682b8d7b61,116710ab-d173-4358-90db-0a5bf6c5a304,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+GBP | Infrastructure - GBP,Private Real Assets,2d4c94f7-704d-4e02-90e4-84291c05bac0,07aa9740-adf4-407e-9473-b4dd1c3fb5f6,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+GBP | Timber - GBP,Private Real Assets,77df0380-3c6e-4bcd-970f-4c59b20ef06b,653e8db3-a3cb-4017-a536-94273f906711,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+GBP | Real Estate - Ex-Value-Added - APAC - GBP,Private Real Estate,698556cb-3655-49bf-a834-d502924827b8,f32d94c2-caeb-4bda-9273-2896f91dcae2,c605bde6-9a3a-4799-9d66-b340ca3636b4
+GBP | Real Estate - Ex-Value-Added - Europe - GBP,Private Real Estate,e9435ab3-510e-45bc-ad49-41176723bb48,8f8123cf-283c-4f81-a219-49921e980cc0,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+GBP | Real Estate - Value-Added - Europe - GBP,Private Real Estate,f735a963-69eb-4712-85cf-5a6974e4672f,8f8123cf-283c-4f81-a219-49921e980cc0,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+GBP | Real Estate - All - UK - GBP,Private Real Estate,,b4ff5131-5828-489a-b89a-fce4e73d1ec1,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+GBP | Real Estate - Ex-Value-Added - UK - GBP,Private Real Estate,4567dfc3-ecf4-46b6-9443-b5b2e4645997,8f8123cf-283c-4f81-a219-49921e980cc0,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+GBP | Real Estate - Value-Added - UK - GBP,Private Real Estate,,b4ff5131-5828-489a-b89a-fce4e73d1ec1,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+GBP | Real Estate - All - USA - GBP,Private Real Estate,,03e53409-2cf0-49ef-9299-72e1cb0b588b,b1591cc0-f9ff-4255-99b8-d34cd4678391
+GBP | Real Estate - Ex-Value-Added - USA - GBP,Private Real Estate,2d929190-57c4-4dae-b124-257c82611b92,03e53409-2cf0-49ef-9299-72e1cb0b588b,b1591cc0-f9ff-4255-99b8-d34cd4678391
+GBP | Real Estate - Value-Added - USA - GBP,Private Real Estate,9588bade-7444-4ecc-83b7-8e7a145d3408,cc913b05-2d22-444a-967a-f2edd82a39b6,b1591cc0-f9ff-4255-99b8-d34cd4678391
+SEK | Debt - Mezzanine - SEK,Private Credit,1fb2b76f-c3e3-4756-9249-077668d098ef,97594cfe-12dc-45f8-bf0e-4dce58b85572,20408da9-93d4-45db-ae31-10c1567d2140
+SEK | Debt - Senior - SEK,Private Credit,472b3d0a-b40f-429b-8dbe-3b47c9711a8d,20408da9-93d4-45db-ae31-10c1567d2140,37af730e-6d33-49ea-8058-18f1770472fb
+SEK | Eq - Buyout + Expansion - SEK,Private Equity,23886fbc-6932-406d-806d-171d6f72eb17,91bbc01d-529f-412d-8023-c9249afed5db,5526c00d-42ec-49d5-8146-c8f46ad3d7de
+SEK | Venture Capital - SEK,Private Equity,85a30953-715d-40c7-b304-98b51dc90ad6,116710ab-d173-4358-90db-0a5bf6c5a304,91bbc01d-529f-412d-8023-c9249afed5db
+SEK | Infrastructure - SEK,Private Real Assets,65f98c41-951b-44d3-80d8-39dd9925fb0d,07aa9740-adf4-407e-9473-b4dd1c3fb5f6,91bbc01d-529f-412d-8023-c9249afed5db
+SEK | Timber - SEK,Private Real Assets,6b66c0b3-81c8-413d-883e-7bbb652cf0fd,f7e57af4-e299-4601-944c-1a0e1e0c2a39,91bbc01d-529f-412d-8023-c9249afed5db
+SEK | Real Estate - Ex-Value-Added - APAC - SEK,Private Real Estate,46d4399a-fb9a-48b9-af4e-4e7b693d44ab,f32d94c2-caeb-4bda-9273-2896f91dcae2,c605bde6-9a3a-4799-9d66-b340ca3636b4
+SEK | Real Estate - Ex-Value-Added - Europe - SEK,Private Real Estate,aeb6be0e-4bf0-4788-a9a7-34cd61ed4dd6,8f8123cf-283c-4f81-a219-49921e980cc0,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+SEK | Real Estate - Value-Added - Europe - SEK,Private Real Estate,,8f8123cf-283c-4f81-a219-49921e980cc0,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+SEK | Real Estate - All - UK - SEK,Private Real Estate,,b4ff5131-5828-489a-b89a-fce4e73d1ec1,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+SEK | Real Estate - Ex-Value-Added - UK - SEK,Private Real Estate,,8f8123cf-283c-4f81-a219-49921e980cc0,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+SEK | Real Estate - Value-Added - UK - SEK,Private Real Estate,,b4ff5131-5828-489a-b89a-fce4e73d1ec1,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+SEK | Real Estate - All - USA - SEK,Private Real Estate,,03e53409-2cf0-49ef-9299-72e1cb0b588b,b1591cc0-f9ff-4255-99b8-d34cd4678391
+SEK | Real Estate - Ex-Value-Added - USA - SEK,Private Real Estate,40588f67-1a68-49a1-866a-7f24b3bc4164,03e53409-2cf0-49ef-9299-72e1cb0b588b,b1591cc0-f9ff-4255-99b8-d34cd4678391
+SEK | Real Estate - Value-Added - USA - SEK,Private Real Estate,,cc913b05-2d22-444a-967a-f2edd82a39b6,b1591cc0-f9ff-4255-99b8-d34cd4678391
+USD | Debt - Mezzanine - USD,Private Credit,da344b8f-f0f9-41f5-ba50-6cfa5da6ed0a,bba6d4c5-a5d1-421f-99ed-6eb2474b4ff0,495b8544-89c5-4516-8f4b-8b57c601fda4
+USD | Debt - Senior - USD,Private Credit,1cdf1d35-d695-406f-b0c0-2eb2f758d3b9,88c971d9-5247-43ae-a5a8-f3a2ea6498c0,495b8544-89c5-4516-8f4b-8b57c601fda4
+USD | Eq - Buyout + Expansion - USD,Private Equity,dcd91934-5641-46c7-b54b-ec42bc6b21ad,fa9624f5-8d27-44fa-8b45-4bcfb1dee60f,b1591cc0-f9ff-4255-99b8-d34cd4678391
+USD | Venture Capital - USD,Private Equity,335daaa5-bb86-4464-9643-b4ec39703699,efd812c0-c318-4e14-aa31-1aa2121fb9fb,b1591cc0-f9ff-4255-99b8-d34cd4678391
+USD | Infrastructure - USD,Private Real Assets,1c01ebe7-7982-4c9f-b175-bce1123753e4,4d707e3d-eb11-411c-8dfa-c97e93ef6952,b1591cc0-f9ff-4255-99b8-d34cd4678391
+USD | Timber - USD,Private Real Assets,42235c4d-8b0c-456d-94d8-1ca66310ae7f,f7e57af4-e299-4601-944c-1a0e1e0c2a39,b1591cc0-f9ff-4255-99b8-d34cd4678391
+USD | Real Estate - Ex-Value-Added - APAC - USD,Private Real Estate,7b97a78a-ffbe-4a66-ac66-74c036f7d2c2,f32d94c2-caeb-4bda-9273-2896f91dcae2,c605bde6-9a3a-4799-9d66-b340ca3636b4
+USD | Real Estate - Ex-Value-Added - Europe - USD,Private Real Estate,b2a7e547-95f6-4a6d-aebd-95e73a57f14c,8f8123cf-283c-4f81-a219-49921e980cc0,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+USD | Real Estate - Value-Added - Europe - USD,Private Real Estate,,8f8123cf-283c-4f81-a219-49921e980cc0,d6436fbf-bb99-4aef-8f9e-a0277b01ab3c
+USD | Real Estate - All - UK - USD,Private Real Estate,,b4ff5131-5828-489a-b89a-fce4e73d1ec1,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+USD | Real Estate - Ex-Value-Added - UK - USD,Private Real Estate,,8f8123cf-283c-4f81-a219-49921e980cc0,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+USD | Real Estate - Value-Added - UK - USD,Private Real Estate,,b4ff5131-5828-489a-b89a-fce4e73d1ec1,02db51bf-fdd0-46f0-b22f-0f13a60cff81
+USD | Real Estate - All - USA - USD,Private Real Estate,,03e53409-2cf0-49ef-9299-72e1cb0b588b,b1591cc0-f9ff-4255-99b8-d34cd4678391
+USD | Real Estate - Ex-Value-Added - USA - USD,Private Real Estate,f91776e8-0273-41ff-9022-6d3820037897,03e53409-2cf0-49ef-9299-72e1cb0b588b,b1591cc0-f9ff-4255-99b8-d34cd4678391
+USD | Real Estate - Value-Added - USA - USD,Private Real Estate,fceba1b2-f5b8-4519-9a8c-47c1ff17d731,cc913b05-2d22-444a-967a-f2edd82a39b6,b1591cc0-f9ff-4255-99b8-d34cd4678391
